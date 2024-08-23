@@ -2,7 +2,7 @@ a
 select * from ARTICLE;
 
 b
-select DESIGNATION from ARTICLE
+select DESIGNATION, REF from ARTICLE 
 where PRIX > 2;
 
 c
